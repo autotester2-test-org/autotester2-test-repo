@@ -1,0 +1,2 @@
+Autotester2 sample input file.
+Update this file during CI tests to verify the program output changes.
