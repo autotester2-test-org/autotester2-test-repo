@@ -1,0 +1,4 @@
+integration-tester scenario=special-approval-stale-after-github-change
+actor=sems-autotester-02
+run_id=20260821152416
+step=1
