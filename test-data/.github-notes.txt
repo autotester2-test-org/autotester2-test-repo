@@ -1,0 +1,4 @@
+integration-tester scenario=github-path-boundary
+actor=sems-autotester-03
+run_id=20260825204451
+step=1
