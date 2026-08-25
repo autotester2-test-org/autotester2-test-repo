@@ -1,4 +1,4 @@
 integration-tester scenario=multi-file-mixed-normal-and-github
 actor=sems-autotester-02
 run_id=20260825204451
-step=1
+step=2
