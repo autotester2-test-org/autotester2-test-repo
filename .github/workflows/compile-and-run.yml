@@ -10,19 +10,6 @@ on:
       - synchronize
 
 jobs:
-  compile-and-run-arm:
-    if: github.base_ref == 'arm-test'
-    runs-on: [self-hosted, Linux, ARM64]
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Compile main.c
-        run: make
-
-      - name: Run compiled program
-        run: ./target/file_printer
 
   compile-and-run-x64:
     if: github.base_ref == 'x64-test'
