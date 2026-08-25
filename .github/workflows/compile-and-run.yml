@@ -9,7 +9,7 @@ on:
 
 jobs:
   compile-and-run:
-    runs-on: [self-hosted, Linux, x64]
+    runs-on: [self-hosted, Linux]
 
     steps:
       - name: Checkout repository
