@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   pull_request:
     branches:
-      - arm-test
       - x64-test
     types:
       - opened
