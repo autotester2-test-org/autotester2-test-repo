@@ -1,2 +1,4 @@
-Autotester2 sample input file.
-Update this file during CI tests to verify the program output changes.
+integration-tester scenario=approval-label
+actor=sems-autotester-03
+run_id=20260827181654
+step=1
