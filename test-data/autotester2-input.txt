@@ -1,4 +1,4 @@
 integration-tester scenario=unapproved-trigger
-actor=sems-autotester-01
+actor=sems-autotester-03
 run_id=20260827204425
-step=1
+step=2
